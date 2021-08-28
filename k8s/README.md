@@ -34,4 +34,4 @@ Verification
 ## Contents
 
 1. [Pods](01-pods/README.md)
-2. [TBD]()
+2. [Services](02-services/README.md)
